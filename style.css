@@ -18,7 +18,7 @@ main {
     position: absolute;
     bottom: 0;
     background-color: #232323;
-    height: 300px;
+    height: 43%;
     width: 100%;
     display: flex;
     text-align: center;
@@ -33,7 +33,7 @@ h1 {
 
 .upperkeys {
     height: 100%;
-    width: 50px;
+    width: 50%;
     position: relative;
     background-color: #fff;
     display: flex;
@@ -48,7 +48,7 @@ h1 {
 .lowerkeys {
     height: 50%;
     color: #fff;
-    width: 50px;
+    width: 50%;
     background-color: #000;
     display: flex;
     align-items: center;
